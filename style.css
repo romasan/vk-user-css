@@ -6,6 +6,10 @@
   display: none!important;
 }
 
+#top_nav {
+  height: 42px;
+}
+
 .left_label {
   margin-left: 10px;
   padding-left: 10px;
