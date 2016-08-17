@@ -2,12 +2,12 @@
   background: white;
 }
 
-.ui_rmenu_pr, #feed_filters, #nowIndicator, .counts_module, .left_icon {
+.ui_rmenu_pr, #feed_filters, #nowIndicator, .counts_module, .left_icon, .ads_ad_box {
   display: none!important;
 }
 
-#top_nav {
-  height: 42px;
+#top_nav, .top_home_link, .top_nav_link, .top_nav_btn {
+  height: 41px;
 }
 
 .left_label {
@@ -28,10 +28,6 @@
   border: 0px!important;
 }
 
-.top_nav_link, .top_nav_btn, .top_audio_player {
-  height: 41px!important;
-}
-
 .content {
   background-image: url('https://vk.com/images/hatf.gif');
   background-position: 0px -42px;
@@ -46,4 +42,16 @@
   right: 3px;
   height: 41px;
   width: 12px;
+}
+
+.wall_wrap clear_fix, #main_feed .wall_module, ._im_page_dialogs, ._im_dialogs_search, ._im_chat_input_w, ._im_dialogs_creation, ._im_page_history {
+  width: 700px!important;
+}
+
+._im_dialog_actions {
+  width: 702px!important;
+}
+
+._im_dialogs_search {
+  top: 101px!important;
 }
