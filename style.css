@@ -1,0 +1,40 @@
+.scroll_fix {
+  background: white;
+}
+
+.ui_rmenu_pr, #feed_filters, #nowIndicator, .counts_module {
+  display: none!important;
+}
+
+.top_home_logo {
+  background-image: url('https://vk.com/images/hatf.gif')!important;
+  background-position: 0px 0px!important;
+  width: 83%!important;
+  height: 100%!important;
+  margin-top: 0px!important;
+}
+
+.back {
+  background: transparent!important;
+  border: 0px!important;
+}
+
+.top_nav_link, .top_nav_btn {
+  height: 41px!important;
+}
+
+.content {
+  background-image: url('https://vk.com/images/hatf.gif');
+  background-position: 0px -42px;
+}
+
+.content:before {
+  content: "";
+  background-image: url('https://vk.com/images/hatf.gif');
+  background-position: 12px 0px;
+  position: absolute;
+  top: 0px;
+  right: 3px;
+  height: 41px;
+  width: 12px;
+}
