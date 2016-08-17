@@ -44,12 +44,12 @@
   width: 12px;
 }
 
-.wall_wrap clear_fix, #main_feed .wall_module, ._im_page_dialogs, ._im_dialogs_search, ._im_chat_input_w, ._im_dialogs_creation, ._im_page_history {
-  width: 700px!important;
+.wall_wrap clear_fix, #main_feed .wall_module, ._im_page_dialogs, ._im_dialogs_search, ._im_chat_input_w, ._im_dialogs_creation, ._im_page_history, ._im_dialogs_settings {
+  width: 795px!important;
 }
 
 ._im_dialog_actions {
-  width: 702px!important;
+  width: 797px!important;
 }
 
 ._im_dialogs_search {
