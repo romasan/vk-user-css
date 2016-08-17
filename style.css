@@ -2,8 +2,13 @@
   background: white;
 }
 
-.ui_rmenu_pr, #feed_filters, #nowIndicator, .counts_module {
+.ui_rmenu_pr, #feed_filters, #nowIndicator, .counts_module, .left_icon {
   display: none!important;
+}
+
+.left_label {
+  margin-left: 10px;
+  padding-left: 10px;
 }
 
 .top_home_logo {
